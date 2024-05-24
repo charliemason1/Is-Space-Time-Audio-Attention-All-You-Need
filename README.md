@@ -39,4 +39,10 @@ TimeSformer: https://www.dropbox.com/s/15bvqltl1j5vyp3/TimeSformer_divST_64x32_2
 AST: https://www.dropbox.com/s/ca0b1v2nlxzyeb4/audioset_10_10_0.4593.pth?dl=1
 
 # Our Models: 
-We trained six models based on the different hyperparameters discussed in the paper. For more information view table 1 in the paper attached. Our models are labeled 'alpha_model_#.pyt
+We trained six models based on the different hyperparameters discussed in the paper. For more information view table 1 in the paper attached. Our models are labeled 'alpha_model_#.pyt and can be found at this Google Drive Folder:
+
+https://drive.google.com/drive/folders/1JWANzGmfbCFFaAoZqnukiskKuUtH0UIQ?usp=drive_link
+
+If there are any issues opening the file, please reach out to this email: david.c.mason.25@dartmouth.edu
+
+

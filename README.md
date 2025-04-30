@@ -1,7 +1,7 @@
 # Is-Space-Time-Audio-Attention-All-You-Need
-This is a repository to implement a late fusion implementation of a TimeSformer and an AST, modulating each respective model's influence on the final output.
+This repository aims to implement a late fusion approach combining a TimeSformer and an AST, modulating the influence of each respective model on the final output.
 
-The abstract from the original paper which can be found below is as follows: 
+The abstract from the original paper, which can be found below, is as follows: 
 
 Recent advancements in video understanding models have built upon the adap-
 tation of the transformer architecture to specific modalities. However, current
